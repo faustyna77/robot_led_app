@@ -1,0 +1,12 @@
+
+        body {
+            padding: 20px;
+        }
+        .ble-state {
+            color: #d13a30;
+        }
+        .btn-icon {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
